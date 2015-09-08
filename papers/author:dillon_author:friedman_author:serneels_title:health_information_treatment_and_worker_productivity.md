@@ -1,6 +1,3 @@
----
-output: html
----
 Health Information, Treatment, and Worker Productivity 
 =========
 Andrew Dillon, Jed Friedman, Pieter Sernells.
