@@ -30,7 +30,7 @@ Large **intent to treat effect** of intervention-- the offer of a workplace base
 ###Secondary Results
 Also looks at the effect of health info by contrasting program effect by worker's revealed health status: workers who test positive for malaria, the treatment of illness **increases labor supply**, leading to higher earnings. For workers who test negative and especially for those workers most likely to be surprised by the healthy diagnosis, health info leads to increased earnings via **increased productivity**. 
 
-##reason 
+##Reason 
 selection into higher return tasks within the plantation as a result of changes in the perceived cost of effort. They use a model to allow health expectations partly to determine the supply of effort-- inaccurate health perceptions may lead workers to suboptimal labor allocation. 
 
 ###Theoretical Framework 
@@ -55,6 +55,6 @@ selection into higher return tasks within the plantation as a result of changes 
 **Problem** Previous literature problem of reverse causality between health status and labor.   
 **Solution** The exogenous change in malaria status induced through medical treatment rules out this possibility.  
 **Problem** Other studies use multiple farms, but cant account for unobserved heterogeneity.  
-**Soluation** This study uses just one.  
+**Solution** This study uses just one.  
 **Problem** Most studies identify malaria infection through self reporting.  
 **Solution** Using plantation in rural Nigeria- 800 sugarcane cutters- paid a piece rate wage.  
