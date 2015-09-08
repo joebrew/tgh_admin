@@ -1,5 +1,5 @@
 ---
-output: word_document
+output: html
 ---
 Health Information, Treatment, and Worker Productivity 
 =========
