@@ -49,12 +49,12 @@ selection into higher return tasks within the plantation as a result of changes 
 	4) worker's total earnings in a period can be assessed as a product of their cumulative daily labor supply, their task choice, and job effort. 
 	
 ###Previous Literature and This Paper's Innovation
-**Issues with previous studies:** 
-**Problem** Focused on real health rather than perceived health. So workers health may be correlated with error term (some sort of endowment effect). 
-**Solution** This study uses randomization which results in exogenous change in malaria health status due to medical treatment of those affected.
-**Problem** Previous literature problem of reverse causality between health status and labor. 
-**Solution** The exogenous change in malaria status induced through medical treatment rules out this possibility. 
-**Problem** Other studies use multiple farms, but cant account for unobserved heterogeneity. 
-**Soluation** This study uses just one. 
-**Problem** Most studies identify malaria infection through self reporting. 
-**Solution** Using plantation in rural Nigeria- 800 sugarcane cutters- paid a piece rate wage.
+**Issues with previous studies:**  
+**Problem** Focused on real health rather than perceived health. So workers health may be correlated with error term (some sort of endowment effect).  
+**Solution** This study uses randomization which results in exogenous change in malaria health status due to medical treatment of those affected.  
+**Problem** Previous literature problem of reverse causality between health status and labor.   
+**Solution** The exogenous change in malaria status induced through medical treatment rules out this possibility.  
+**Problem** Other studies use multiple farms, but cant account for unobserved heterogeneity.  
+**Soluation** This study uses just one.  
+**Problem** Most studies identify malaria infection through self reporting.  
+**Solution** Using plantation in rural Nigeria- 800 sugarcane cutters- paid a piece rate wage.  
